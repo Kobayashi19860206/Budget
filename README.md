@@ -2,7 +2,7 @@
   <h1 align="center">Badget: Revolutionizing Financial Management</h1>
 </a>
 
- <img width="1440" alt="dashboard_mockup" src="https://github.com/projectx-codehagen/Badget/assets/24507211/2c2b8e43-3d18-4b28-b8d0-5dc0cbdb530f">
+ <img width="1440" alt="dashboard_mockup" src="https://github.com/Kobayashi19860206/Badget/assets/24507211/2c2b8e43-3d18-4b28-b8d0-5dc0cbdb530f">
 
 <p align="center">
   Empower your financial management with Badget - AI-driven insights at your fingertips. Optimize your finances effortlessly.
@@ -12,8 +12,8 @@
   <!-- <a href="https://twitter.com/placeholder">
     <img src="https://img.shields.io/twitter/follow/badget?style=flat&label=%40badgety&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
   </a> -->
-  <a href="https://github.com/projectx-codehagen/Badget/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/projectx-codehagen/Badget?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+  <a href="https://github.com/Kobayashi19860206/Badget/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/Kobayashi19860206/Badget?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@ Badget is a monorepo managed by [Turborepo](https://turbo.build/repo). The monor
 Clone & create this repo locally with the following command:
 
 ```bash
-git clone https://github.com/projectx-codehagen/Badget
+git clone https://github.com/Kobayashi19860206/Badget
 ```
 
 1. Install dependencies using pnpm:
@@ -145,11 +145,11 @@ pnpm run deploy
 
 We love our contributors! Here's how you can contribute:
 
-- [Open an issue](https://github.com/projectx-codehagen/badget/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/projectx-codehagen/badget/pull) to add new features/make quality-of-life improvements/fix bugs.
+- [Open an issue](https://github.com/Kobayashi19860206/badget/issues) if you believe you've encountered a bug.
+- Make a [pull request](https://github.com/Kobayashi19860206/badget/pull) to add new features/make quality-of-life improvements/fix bugs.
 
-<a href="https://github.com/projectx-codehagen/badget/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=projectx-codehagen/badget" />
+<a href="https://github.com/Kobayashi19860206/badget/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kobayashi19860206/badget" />
 </a>
 
 ## Repo Activity
